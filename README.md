@@ -1,5 +1,5 @@
 
- ##Olá, me chamo Gabriel e sou um desenvolvedor Front-End
+ ## Olá, me chamo Gabriel e sou um desenvolvedor Front-End
 
  - 🌱 Estou estudando os frame Works React e Vue.js
  -  
