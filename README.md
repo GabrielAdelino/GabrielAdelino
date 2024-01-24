@@ -1,8 +1,5 @@
 
- ## Olá, me chamo Gabriel e sou um desenvolvedor Front-End
-
- - 🌱 Estou estudando os frame Works React e Vue.js
- -  
+ ## Olá, me chamo Gabriel Adelino 
 
 <div  align="center" style="margin-bottom:100px">
 
